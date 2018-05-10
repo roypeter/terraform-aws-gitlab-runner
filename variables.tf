@@ -39,7 +39,7 @@ variable "amazon_optimized_amis" {
     us-east-1      = "ami-8c1be5f6" # N. Virginia
     us-east-2      = "ami-c5062ba0" # Ohio
     us-west-1      = "ami-e689729e" # N. California
-    us-west-2      = "ami-02eada62" # Oregon
+    us-west-2      = "ami-e689729e" # Oregon
     eu-west-1      = "ami-acd005d5" # Ireland
     eu-west-2      = "ami-1a7f6d7e" # London
     eu-central-1   = "ami-c7ee5ca8" # Frankfurt
